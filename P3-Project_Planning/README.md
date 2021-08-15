@@ -1,19 +1,20 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
-
-## Submission Instructions
 
 ### Wireframes
+The following are links to individual page wireframe pdfs:
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Landing](https://github.com/jarod2228/liftoff-assignments/blob/master/P3-Project_Planning/Landing%20Page%20Wireframe.pdf)<br>
+* [My Kitchen](https://github.com/jarod2228/liftoff-assignments/blob/master/P3-Project_Planning/My%20Kitchen%20Page.pdf)<br>
+* [Add Recipe](https://github.com/jarod2228/liftoff-assignments/blob/master/P3-Project_Planning/Add%20Recipe%20Page.pdf)<br>
+* [My Recipes](https://github.com/jarod2228/liftoff-assignments/blob/master/P3-Project_Planning/My%20Recipes%20Page.pdf)<br>
+* [Matched Recipes](https://github.com/jarod2228/liftoff-assignments/blob/master/P3-Project_Planning/Matched%20Recipes%20Page.pdf)<br>
+* [View Recipes](https://github.com/jarod2228/liftoff-assignments/blob/master/P3-Project_Planning/View%20Recipe%20Page.pdf)<br>
+* [Shopping List (Backlogged)](https://github.com/jarod2228/liftoff-assignments/blob/master/P3-Project_Planning/Shopping%20List%20Page%20(Backlogged).pdf)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/rphME942/whatssup-official-project-board
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/LaunchCodeLiftoffProjects/jane-group-a
