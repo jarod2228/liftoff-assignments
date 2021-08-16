@@ -13,8 +13,8 @@ The following are links to individual page wireframe pdfs:
 
 ### Project Tracker
 
-https://trello.com/b/rphME942/whatssup-official-project-board
+[Trello Board](https://trello.com/b/rphME942/whatssup-official-project-board)
 
 ### Project Repo Link
 
-https://github.com/LaunchCodeLiftoffProjects/jane-group-a
+[Github](https://github.com/LaunchCodeLiftoffProjects/jane-group-a)
